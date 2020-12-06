@@ -1,1 +1,1 @@
-web: gunicorn exploration_probe.wsgi
+web: gunicorn _DESAFIO_CREDERE.wsgi
