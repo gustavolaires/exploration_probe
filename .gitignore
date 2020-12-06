@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# Local database
+*.sqlite3
+
+# Virtual Env
+.venv
