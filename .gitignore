@@ -5,4 +5,4 @@
 *.sqlite3
 
 # Virtual Env
-.venv
+venv
