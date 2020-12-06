@@ -9,3 +9,5 @@ venv
 
 # .env file
 .env
+
+*.pyc
