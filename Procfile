@@ -1,1 +1,1 @@
-web: gunicorn _DESAFIO_CREDERE.wsgi
+web: gunicorn sonda_exploradora.wsgi
