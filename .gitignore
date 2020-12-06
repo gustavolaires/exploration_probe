@@ -6,3 +6,6 @@
 
 # Virtual Env
 venv
+
+# .env file
+.env
